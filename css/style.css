@@ -1,0 +1,12 @@
+.navbar{
+    background-image: url(https://www.maismonografia.com.br/wp-content/uploads/2015/07/tema-para-monografia-de-ciencias-da-computacao.jpg);
+}
+.inicio{
+    background-image: url(https://www.maismonografia.com.br/wp-content/uploads/2015/07/tema-para-monografia-de-ciencias-da-computacao.jpg);
+    background-size: cover;
+    background-image: top;
+}
+#conteudoInicio{
+    padding-bottom: 500px;
+    padding-top: :150px;
+}
